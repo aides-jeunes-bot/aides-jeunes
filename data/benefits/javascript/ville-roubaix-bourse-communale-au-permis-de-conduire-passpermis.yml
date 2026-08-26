@@ -19,12 +19,12 @@ conditions_generales:
 profils: []
 conditions:
   - Être en recherche d’emploi, en formation ou engagé dans un parcours
-    d’insertion professionnelle
-  - "Avoir besoin du permis B (ex : indispensable pour une prise de poste rapide)"
+    d’insertion professionnelle.
+  - "Avoir besoin du permis B (ex : indispensable pour une prise de poste rapide)."
   - Ne pas être inscrit dans une autre auto‑école, ni avoir commencé une formation
-    au permis
-  - Ne pas bénéficier d’une autre aide pour le permis
-  - Avoir effectué sa Journée d’appel à la défense
+    au permis.
+  - Ne pas bénéficier d’une autre aide pour le permis.
+  - Avoir effectué sa Journée d’appel à la défense.
 voluntary_conditions:
   - Réaliser entre 35 et 50 heures d'action bénévole auprès d’une association, d’un service municipal ou d’un organisme partenaire
 interestFlag: _interetPermisDeConduire
