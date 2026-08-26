@@ -18,8 +18,6 @@ conditions_generales:
     value: 25
 profils: []
 conditions:
-  - Avoir entre 18 et 30 ans
-  - Habiter à Roubaix
   - Être en recherche d’emploi, en formation ou engagé dans un parcours
     d’insertion professionnelle
   - "Avoir besoin du permis B (ex : indispensable pour une prise de poste rapide)"
@@ -27,10 +25,8 @@ conditions:
     au permis
   - Ne pas bénéficier d’une autre aide pour le permis
   - Avoir effectué sa Journée d’appel à la défense
-  - S’engager à réaliser entre 35 h et 50 h de bénévolat auprès d’une association,
-    d’un service municipal ou d’un organisme partenaire
 voluntary_conditions:
-  - Réaliser 35 heures d'action bénévole dans un service de la Ville de Roubaix.
+  - Réaliser entre 35 et 50 heures d'action bénévole auprès d’une association, d’un service municipal ou d’un organisme partenaire
 interestFlag: _interetPermisDeConduire
 type: float
 unit: €
