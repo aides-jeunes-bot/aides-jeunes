@@ -38,7 +38,6 @@ conditions:
 type: bool
 unit: €
 periodicite: autre
-link: https://www.maregionsud.fr/vos-aides/detail/zou-etudes
-teleservice: https://zou.maregionsud.fr/acheter-un-pass-zou-etudes-2024-2025/
+link: https://zou.maregionsud.fr/pass-zou-etudes
+teleservice: https://zou.maregionsud.fr/pass-zou-etudes
 instructions: ""
-private: true
