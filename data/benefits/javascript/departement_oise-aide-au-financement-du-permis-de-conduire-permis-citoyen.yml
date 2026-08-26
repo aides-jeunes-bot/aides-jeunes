@@ -30,5 +30,5 @@ unit: €
 periodicite: autre
 montant: 600
 link: https://www.oise.fr/les-pass-citoyens-du-conseil-departemental-de-loise/le-passpermis-citoyen
-form: https://www.oise.fr/fileadmin/user_upload/docs/pass-citoyens/pass-permis-citoyen/Dossier-de-candidature-Pass-Permis-Citoyen-oise.fr.pdf
-private: true
+teleservice: https://www.aidesetsubventions.oise.fr/aides/#/cd60/
+is_teleservice_need_register: true

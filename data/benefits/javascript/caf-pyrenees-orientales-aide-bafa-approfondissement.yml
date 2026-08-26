@@ -21,8 +21,8 @@ conditions_generales:
     values:
       - "66"
 profils: []
-link: https://www.caf.fr/allocataires/caf-des-pyrenees-orientales/offre-de-service/vie-personnelle/une-presence-aupres-des-jeunes/l-aide-aux-stagiaires-en-formation-bafa
-instructions: https://www.caf.fr/allocataires/caf-des-pyrenees-orientales/offre-de-service/vie-personnelle/une-presence-aupres-des-jeunes/l-aide-aux-stagiaires-en-formation-bafa
+link: https://www.caf.fr/allocataires/caf-des-pyrenees-orientales/offre-de-service/vie-personnelle/les-jeunes
+instructions: https://www.caf.fr/sites/default/files/medias/493/Allocataires/Vie%20personnelle/pdf/ASBAF006_demande%20d%27aide%20pour%20le%20Bafa.pdf
 prefix: l’
 type: float
 unit: €
