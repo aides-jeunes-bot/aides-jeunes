@@ -9,7 +9,7 @@ description: Cette aide est un coup de pouce de la Mutualité Sociale Agricole
 conditions:
   - Avoir obtenu le code de la route.
 link: https://mps.msa.fr/lfy/famille/aide-permis-de-conduire
-form: https://mps.msa.fr/lfy/documents/98775/99816930/Imprim%C3%A9+2021+-+Demande+pour+aide+au+permis+de+conduire+maj+2021+05.pdf
+form: https://mps.msa.fr/lfp/documents/98775/1699447/Imprim%C3%A9+-+Demande+pour+aide+au+permis+de+conduire.pdf
 prefix: l’
 type: float
 unit: "€"
@@ -18,4 +18,3 @@ entity: individus
 openfiscaPeriod: thisMonth
 periodicite: ponctuelle
 interestFlag: _interetPermisDeConduire
-private: true

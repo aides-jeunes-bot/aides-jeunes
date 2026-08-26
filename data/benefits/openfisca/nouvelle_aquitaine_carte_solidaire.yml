@@ -6,11 +6,11 @@ description: La Carte Solidaire permet de bénéficier de 80% de réduction sur 
   prestations.
 prefix: la
 type: bool
-unit:
+unit: null
 periodicite: ponctuelle
 link: https://transports.nouvelle-aquitaine.fr/les-offres/la-carte-solidaire
-teleservice: https://cartesolidaire-nouvelle-aquitaine.cba.fr/
+teleservice: https://cartesolidaire-nouvelle-aquitaine.zecarte.fr/
 instructions: ""
 entity: individus
 openfiscaPeriod: thisMonth
-private: true
+is_teleservice_need_register: true

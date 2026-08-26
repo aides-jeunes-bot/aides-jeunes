@@ -4,8 +4,8 @@ description: Le Coupon Arts et Sports favorise l’accès à une pratique sporti
   et/ou artistique pour les enfants mineurs illkirchois grâce à un allègement
   des frais d’inscription. La famille reçoit un ou plusieurs coupons en fonction
   de son quotient familial.
-link: http://www.illkirch.eu/solidarite-et-sante/ccas/
-instructions: http://www.illkirch.eu/wp-content/uploads/coupon-arts-et-sports-2021.pdf
+link: https://www.illkirch.eu/vos-demarches/actions-sociales/aides-sociales-du-ccas
+instructions: https://www.illkirch.eu/wp-content/uploads/2025/04/Coupon-Arts-et-Sport.pdf
 prefix: le
 floorAt: 1
 entity: familles
@@ -14,4 +14,3 @@ type: float
 unit: "€"
 legend: "en coupons"
 periodicite: ponctuelle
-private: true

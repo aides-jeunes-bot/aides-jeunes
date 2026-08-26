@@ -40,4 +40,5 @@ unit: €
 periodicite: autre
 link: https://zou.maregionsud.fr/pass-zou-etudes
 teleservice: https://zou.maregionsud.fr/pass-zou-etudes
+is_teleservice_need_register: true
 instructions: ""
