@@ -20,15 +20,10 @@ profils:
   - type: stagiaire
     conditions: []
 conditions:
-  - Âge maximum 30 ans à la date du début du stage
-  - "Nationalité étrangère : interdiction de faire le stage dans le pays d'origine"
-  - "Nationalité française avec double nationalité : contrat de location requis"
-  - Stage doit se dérouler à l'étranger (hors DOM/TOM)
-  - Durée minimum de 2 semaines consécutives
-  - Pas d’autre aide régionale ou financement OPCO pour le même stage
-  - Stage en télétravail depuis la France non éligible
-  - Si l’entreprise de stage est à moins de 100 km du domicile, contrat de
-    location requis
+  - Ne pas effectuer le stage dans le pays d'origine en cas de nationalité étrangère.
+  - Disposer dʼun contrat de location en cas de nationalité française avec double nationalité ou si lʼentreprise de stage est à moins de 100 km du domicile.
+  - Effectuer le stage à lʼétranger (hors DOM/TOM) sur une durée minimum de 2 semaines consécutives.
+  - Ne pas bénéficier dʼune autre aide régionale ou dʼun financement OPCO pour le même stage.
 interestFlag: _interetEtudesEtranger
 type: float
 unit: €
